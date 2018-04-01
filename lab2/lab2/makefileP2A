@@ -1,0 +1,3 @@
+lab:part2A.c
+part2A:part2A.c
+	gcc part2A.c -o part2A

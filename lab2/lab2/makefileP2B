@@ -1,0 +1,3 @@
+all:part2B
+part2B:part2B.c
+	gcc part2B.c -o part2B

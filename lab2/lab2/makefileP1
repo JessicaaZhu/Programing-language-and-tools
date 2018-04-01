@@ -1,0 +1,4 @@
+all:Part1.c
+Part1:Part1.c
+	gcc Part1.c -o Part1
+
